@@ -1,0 +1,10 @@
+# Pinned versions (tested with Python 3.12). Python 3.11 or 3.12 on Windows 10/11.
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+interpret-core==0.6.7
+matplotlib==3.9.2
+joblib==1.4.2
+streamlit==1.40.2
+pyarrow==17.0.0
+pytest==8.3.3
